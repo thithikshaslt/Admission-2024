@@ -16836,3 +16836,6 @@ span.select2-selection.select2-selection--single:focus {
   left: 20px;
   right: unset;
 }
+.text-justify {
+  text-align: justify;
+}
